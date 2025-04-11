@@ -1,0 +1,47 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: chatbot-backend
+    restart: always
+    env_file: .env
+    expose:
+      - "8000"
+
+  frontend:
+    build: ./frontend
+    container_name: chatbot-frontend
+    restart: always
+    env_file: .env
+    expose:
+      - "3000"
+
+  nginx:
+    build: ./nginx
+    container_name: chatbot-nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - certbot-etc:/etc/letsencrypt
+      - certbot-var:/var/lib/letsencrypt
+    depends_on:
+      - backend
+      - frontend
+
+  certbot:
+    image: certbot/certbot
+    container_name: certbot
+    volumes:
+      - certbot-etc:/etc/letsencrypt
+      - certbot-var:/var/lib/letsencrypt
+    entrypoint: >
+      sh -c "sleep 10 && certbot certonly --webroot --webroot-path=/var/www/certbot
+      --email your@email.com --agree-tos --no-eff-email
+      -d ${DOMAIN} && nginx -s reload"
+
+volumes:
+  certbot-etc:
+  certbot-var:

@@ -1,0 +1,33 @@
+
+retriever:
+  # Đường dẫn đến các thư mục chứa tài liệu, có thể có nhiều thư mục hoặc nhiều file
+  folders_to_process:
+    - "retriever/data/dao_tao"
+    - "retriever/data/student"
+  
+  # Thông tin về các headers để chia tách tài liệu
+  headers_to_split_on:
+    - ["#", "Header 1"]
+    - ["##", "Header 2"]
+  
+  load_documents: True
+  collection_name: rag-chroma-google
+  # Thư mục chứa vectorstore, bạn sẽ có các thư mục con trong thư mục này
+  directory: "retriever/vector_db"
+  
+  # Số lượng tài liệu cần truy vấn trong mỗi lần tìm kiếm
+  top_k: 3
+  top_k_compression: 3
+  
+  # Trọng số của các retriever trong ensemble
+  ensemble_weights: [0.3, 0.3, 0.4]
+  
+  # Mô hình rerank của Cohere
+  cohere_rerank_model: rerank-multilingual-v3.0 #rerank-english-v3.0
+
+
+llm:
+  # Các mô hình LLM đang sử dụng
+  gpt_4o_mini: gpt-4o-mini-2024-07-18
+  gpt_4o: gpt-4o-2024-08-06
+  temperature: 0
