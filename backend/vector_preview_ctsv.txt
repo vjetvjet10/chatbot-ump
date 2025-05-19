@@ -1,0 +1,732 @@
+--- Preview domain: ctsv ---
+
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=1
+QUYẾT ĐỊNH
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=2
+Ban hành Quy định về chế độ hỗ trợ sinh viên gặp khó khăn đột xuất đang học tập tại Đại học Y Dược Thành phố Hồ Chí Minh
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=4
+HIỆU TRƯỞNG ĐẠI HỌC Y DƯỢC THÀNH PHỐ HỒ CHÍ MINH
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=5
+Căn cứ Nghị quyết số 10/NQ-HĐT ngày 20/10/2020 của Hội đồng Trường Đại học Y Dược Thành phố Hồ Chí Minh về việc ban hành Quy chế tổ chức và hoạt động của Đại học Y Dược Thành phố Hồ Chí Minh;
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=6
+Căn cứ Nghị quyết số 26/NQ-HĐT ngày 20/10/2021 của Hội đồng Trường Đại học Y Dược TP. Hồ Chí Minh về việc điều chỉnh một số nội dung tại Nghị quyết số 10/NQ-HĐT ngày 20/10/2020 của Hội đồng Trường về việc ban hành Quy chế Tổ chức và hoạt động của Đại học Y Dược TP. Hồ Chí Minh;
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=7
+Căn cứ Quyết định số 1691/QĐ-ĐHYD ngày 29/9/2021 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh về việc ban hành Quy chế Công tác sinh viên Đại học Y Dược Thành phố Hồ Chí Minh;
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=8
+Theo đề nghị của Trưởng phòng Công tác sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=10
+Điều 1. Ban hành kèm theo Quyết định này Quy định về Chi hỗ trợ sinh viên gặp khó khăn đột xuất tại Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=11
+Điều 2. Quyết định này có hiệu lực từ ngày ký.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=12
+Điều 3. Trưởng phòng Hành chính Tổng hợp, Trưởng phòng Công tác sinh viên, Trưởng phòng Kế hoạch Tài chính, Trưởng phòng Đào tạo Đại học, Trưởng các Khoa chịu trách nhiệm thi hành Quyết định này.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=14
+QUY ĐỊNH
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=15
+Chế độ hỗ trợ sinh viên gặp khó khăn đột xuất đang học tập tại
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=16
+Đại học Y Dược Thành phố Hồ Chí Minh
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=17
+(Ban hành kèm theo quyết định số 3767  /QĐ-ĐHYD ngày 27 tháng 10 năm 2022 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh)
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=19
+Điều 1. Phạm vi áp dụng
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=20
+Văn bản này quy định về chế độ hỗ trợ cho sinh viên gặp khó khăn đột xuất của Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=21
+Điều 2. Đối tượng áp dụng
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=22
+Tất cả sinh viên hệ chính quy đang học tập tại Đại học Y Dược Thành phố Hồ Chí Minh
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=23
+Điều 3. Nguồn kinh phí thực hiện
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=24
+Nguồn kinh phí chi hỗ trợ sinh viên gặp khó khăn đột xuất tại Đại học Y Dược Thành phố Hồ Chí Minh được trích từ Quỹ UMP Foundation.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=25
+Điều 4. Chế độ hỗ trợ khó khăn đột xuất
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=26
+1. Danh mục hỗ trợ
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=27
+- Sinh viên bị bệnh hiểm nghèo.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=28
+- Sinh viên bị tai nạn nhập viện đột xuất.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=29
+- Sinh viên có gia đình bị ảnh hưởng bởi thiên tai, hoả hoạn, dịch bệnh...
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=30
+- Hỗ trợ sinh viên có hoàn cảnh khó khăn trong dịp Tết Nguyên đán.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=31
+- Sinh viên tử vong.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=32
+- Các trường hợp khó khăn khác do Hiệu trưởng quyết định.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=33
+2. Nội dung và mức hỗ trợ
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=34
+a. Chi hỗ trợ sinh viên bị bệnh hiểm nghèo: 100% học phí hệ chính quy của năm học đó.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=35
+b. Chi hỗ trợ sinh viên bị tai nạn nhập viện đột xuất
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=36
+Mức hỗ trợ từ 25% học phí hệ chính quy của năm học đó trở lên tùy mức độ tai nạn.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=37
+c. Gia đình gặp tai nạn, hoả hoạn, thiên tai dẫn đến bị sập nhà, trôi nhà, cháy nhà hoặc gia đình phải di dời chỗ ở vì lý do nêu trên: 3.000.000 đồng/suất.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=38
+d. Sinh viên có hoàn cảnh khó khăn không có điều kiện về quê trong dịp Tết Nguyên đán: 500.000đồng/suất.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=39
+e. Sinh viên tử vong: 10.000.000 đồng.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=40
+f. Các trường hợp khác: tùy mức độ từng trường hợp, Phòng Công tác sinh viên sẽ làm tờ trình đề nghị Ban Giám hiệu phê duyệt mức hỗ trợ cụ thể.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=41
+3. Thủ tục giải quyết hỗ trợ khó khăn đột xuất
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=42
+a, Sinh viên trong quá trình học tập tại trường khi khám bệnh tại các cơ sở y tế phát hiện bị bệnh hiểm nghèo (danh mục bệnh hiểm nghèo theo quy định của nhà nước), sinh viên làm đơn theo mẫu 01 và hồ sơ bệnh án gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=43
+b, Sinh viên trong quá trình học tập tại trường bị tai nạn nhập viện đột xuất, gia đình hoặc cố vấn học tập làm đơn theo mẫu 01 và hồ sơ bệnh án gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=44
+c, Trường hợp gia đình gặp tai nạn, hoả hoạn, thiên tai dẫn đến bị sập nhà, trôi nhà, cháy nhà hoặc gia đình phải di dời chỗ ở, sinh viên làm đơn theo mẫu 01 và có giấy xác nhận của địa phương nơi cứ trú gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=45
+d, Trường hợp Sinh viên có hoàn cảnh khó khăn trong dịp Tết Nguyên đán sinh viên làm đơn theo mẫu 01 có xác nhận của Ban cán sự lớp và cố vấn học tập gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=46
+e. Trường hợp Sinh viên tử vong trong thời gian học tập tại trường, gia đình hoặc cố vấn học tập làm đơn theo mẫu 01 và giấy báo tử (hoặc hồ sơ xác định tử vong của bệnh viện) gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=47
+f. Các trường hợp khác: Sinh viên làm đơn theo mẫu 01 gửi về Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=48
+Căn cứ vào tờ khai và các giấy tờ xác nhận từ Khoa gửi về Phòng Công tác sinh viên, Phòng kiểm tra và trình Ban Giám hiệu phê duyệt.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=49
+Điều 5. Nguyên tắc thực hiện
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=50
+- Công tác hỗ trợ sinh viên được thực hiện công khai, công bằng, khách quan và đúng đối tượng.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=51
+- Đảm bảo thực hiện đúng quy trình, quy định trong việc xét, cấp chi hỗ trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=52
+- Đảm bảo tính thống nhất của việc chi hỗ trợ trong toàn trường, thực hiện chế độ thông tin, phối hợp giữa các đơn vị quản lý trong việc cấp chi hỗ trợ sinh viên gặp khó khăn đột xuất.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=55
+Điều 6: Tổ chức thực hiện
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=56
+1. Phòng Công tác sinh viên
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=57
+- Tiếp nhận hồ sơ chi hỗ trợ sinh viên gặp khó khăn đột xuất từ các Khoa.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=58
+- Tiếp nhận và xét Đơn, Hồ sơ của sinh viên theo đúng quy định, trình Ban Giám hiệu phê duyệt; thông báo cho các đơn vị, cá nhân có liên quan và phối hợp tổ chức thực hiện.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=59
+- Phối hợp với Phòng Kế hoạch tài chính chi hỗ trợ sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=60
+- Quản lý dữ liệu, hồ sơ sinh viên nhận hỗ trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=61
+- Tham mưu cho Ban Giám hiệu về việc điều chỉnh, bổ sung nội dung của Quy định này cho phù hợp với tình hình thực tế.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=62
+2. Phòng Kế hoạch Tài chính
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=63
+- Phối hợp với Phòng Công tác sinh viên tham mưu cho Ban Giám hiệu về việc điều chỉnh, bổ sung nội dung của Quy định này cho phù hợp với tình hình thực tế.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=64
+- Thực hiện việc chuyển tiền hỗ trợ cho sinh viên theo quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=65
+3. Ban Chủ nhiệm Khoa
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=66
+- Tiếp nhận hồ sơ của sinh viên, cố vấn học tập, xác minh, xác nhận hồ sơ và gửi đề nghị về Phòng Công tác sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=67
+Điều 7. Hiệu lực thi hành
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=68
+Quy định về hỗ trợ sinh viên gặp khó khăn đột xuất Đại học Y Dược Thành phố Hồ Chí Minh có hiệu lực kể từ ngày ký.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=69
+Điều 8. Trách nhiệm thi hành
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=70
+1. Trưởng phòng Hành chính Tổng hợp, Trưởng phòng Công tác sinh viên, Trưởng phòng Kế hoạch Tài chính, Trưởng phòng Đào tạo Đại học, Trưởng các Khoa và Sinh viên chịu trách nhiệm thi hành Quyết định này.
+--------------------------------------------------------------------------------
+[paragraph]  | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=71
+2. Trong quá trình tổ chức thực hiện, nếu có khó khăn, vướng mắc, những điều chưa phù hợp, đề nghị đơn vị, cá nhân phản ánh kịp thời về Phòng Công tác sinh viên để tổng hợp, báo cáo Hiệu trưởng xem xét, sửa đổi, bổ sung.
+--------------------------------------------------------------------------------
+[table] table | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=0
+0,1
+"BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC
+THÀNH PHỐ HỒ CHÍ MINH
+
+Số: 3767  /QĐ-ĐHYD","CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+
+Thành phố Hồ Chí Minh, ngày 27 tháng 10 năm 2022"
+--------------------------------------------------------------------------------
+[table] table | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=1
+0,1
+"Nơi nhận:
+- Như Điều 3;
+- Lưu: VT, P.CTSV_VT.","KT. HIỆU TRƯỞNG
+PHÓ HIỆU TRƯỞNG
+
+
+
+
+
+Nguyễn Hoàng Bắc"
+--------------------------------------------------------------------------------
+[table] table | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=2
+0,1
+"BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC
+THÀNH PHỐ HỒ CHÍ MINH","CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc"
+--------------------------------------------------------------------------------
+[table] table | 3767.QUY DINH VE CHI HO TRO SINH VIEN GAP KHO KHAN DOT XUAT DAI HOC Y DUOC TPHCM.docx | idx=3
+0,1
+,"KT. HIỆU TRƯỞNG
+PHÓ HIỆU TRƯỞNG
+
+
+
+
+
+Nguyễn Hoàng Bắc"
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=2
+Ban hành Quy định về chính sách học bổng cho sinh viên Đại học chính quy tại
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=7
+Căn cứ Nghị định số 84/2020/NĐ-CP ngày 17/7/2020 của Chính Phủ, Quy định chi tiết một số điều của Luật Giáo dục;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=8
+Căn cứ Quyết định số 456/QĐ-ĐHYD-ĐT ngày 09/3/2016 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh về việc ban hành Quy chế đào tạo đại học hệ chính quy theo hệ thống tín chỉ;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=9
+Căn cứ Quyết định số 5157/QĐ-ĐHYD ngày 20/11/2019 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh về việc ban hành Quy chế Công tác sinh viên Đại học Y Dược Thành phố Hồ Chí Minh;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=10
+Căn cứ Quyết định số 5158/QĐ-ĐHYD ngày 20/11/2019 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh về việc ban hành Quy chế Đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy  Đại học Y Dược Thành phố Hồ Chí Minh;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=13
+Điều 1. Ban hành kèm theo Quyết định này Quy định về chính sách học bổng cho sinh viên Đại học chính quy tại Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=15
+Điều 3. Trưởng phòng Hành chính Tổng hợp, Trưởng phòng Công tác sinh viên, Trưởng phòng Kế hoạch Tài chính, Trưởng phòng Đào tạo Đại học, Trưởng các Khoa và các Đơn vị trực thuộc chịu trách nhiệm thi hành Quyết định này.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=42
+Về chính sách học bổng cho sinh viên Đại học chính quy tại Đại học Y Dược Thành phố Hồ Chí Minh
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=43
+(Ban hành kèm theo quyết định số         /QĐ-ĐHYD ngày    tháng    năm 2021 của Hiệu trưởng Đại học Y Dược Thành phố Hồ Chí Minh)
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=45
+Chương I
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=46
+NHỮNG QUY ĐỊNH CHUNG
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=47
+Điều 1: Phạm vi điều chỉnh và đối tượng áp dụng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=48
+Quy định này điều chỉnh về chính sách học bổng trong đào tạo cho sinh viên Đại học chính quy nhập học từ khóa 2020 (sau đây gọi tắt là sinh viên) còn trong thời gian đào tạo theo kế hoạch của khóa học và thỏa mãn điều kiện xét học bổng theo quy định tại Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=49
+Điều 2: Tên học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=50
+Đại học Y Dược Thành phố Hồ Chí Minh có 03 loại học bổng áp dụng với tên gọi cụ thể như sau:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=51
+Học bổng Tân sinh viên:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=52
+- Dành cho Tân sinh viên có điểm xét tuyển đầu vào cao nhất cấp trường, khoa, ngành (là tổng điểm thi 3 môn đầu vào, không tính điểm ưu tiên).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=53
+- Dành cho Tân sinh viên thuộc đối tượng được miễn, giảm học phí theo quy định của pháp luật hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=54
+- Dành cho Tân sinh viên có hoàn cảnh khó khăn và còn trong chỉ tiêu được cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=55
+2. Học bổng Khuyến học: dành cho sinh viên từ năm thứ 2 trở đi có kết quả học tập và rèn luyện từ loại khá trở lên, không bị kỷ luật từ mức khiển trách trở lên trong năm học xét học bổng và còn trong chỉ tiêu được cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=56
+3. Học bổng từ các tổ chức và cá nhân tài trợ: là học bổng được các tổ chức, cá nhân trong và ngoài trường tài trợ cho sinh viên bằng nhiều hình thức được Ban Giám hiệu nhà trường tiếp nhận và triển khai trong năm.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=57
+Điều 3: Quỹ học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=58
+1. Các quỹ học bổng tại Đại học Y Dược Thành phố Hồ Chí Minh dành để cấp học bổng cho sinh viên chính quy, được hình thành từ các nguồn sau:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=59
+- Trích tỷ lệ % từ nguồn thu học phí đại học chính quy để lập quỹ học bổng khuyến học theo quy định của Bộ Giáo dục và Đào tạo;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=60
+- Quỹ UMP Foundation có nguồn học bổng huy động từ các cá nhân, tổ chức trong và ngoài trường tài trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=61
+2. Từ các quỹ học bổng, Hiệu trưởng quyết định tổng số tiền phân bổ cho từng loại học bổng trong năm.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=62
+Điều 4: Suất học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=63
+Có 05 loại suất học bổng:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=64
+- Suất học bổng 100% học phí của từng khóa xét học bổng tương ứng;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=65
+- Suất học bổng 75% học phí của từng khóa xét học bổng tương ứng;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=66
+- Suất học bổng 50% học phí của từng khóa xét học bổng tương ứng;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=67
+- Suất học bổng 25% học phí của từng khóa xét học bổng tương ứng;
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=68
+- Suất học bổng theo yêu cầu của nhà tài trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=69
+Điều 5: Căn cứ xét học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=70
+1. Điểm trung bình học tập và điểm rèn luyện của học kỳ, năm học là căn cứ xét học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=71
+- Sinh viên phải hoàn thành số môn học (số lượng tín chỉ) tối thiểu của mỗi học kỳ theo Quy chế và kế hoạch đào tạo hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=72
+- Điểm rèn luyện được căn cứ theo Quy chế đánh giá kết quả rèn luyện hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=73
+- Có chứng nhận tham gia các hoạt động cộng đồng và gia cảnh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=74
+2. Đối với Tân sinh viên, căn cứ xét học bổng là điểm xét tuyển đầu vào, hồ sơ chứng minh thuộc đối tượng hưởng chế độ chính sách và gia cảnh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=75
+Điều 6: Nguyên tắc chung
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=76
+- Đảm bảo tính công khai, công bằng, khách quan và đúng đối tượng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=77
+- Đảm bảo thực hiện đúng quy trình, quy định trong việc xét, cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=78
+- Đảm bảo tính thống nhất của việc quản lý học bổng trong toàn trường, thực hiện chế độ thông tin, phối hợp giữa các đơn vị quản lý trong việc xét, cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=79
+- Học bổng chỉ được cấp trong thời gian đào tạo của khóa học. Thời gian tạm ngừng học không được xét cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=82
+Chương II
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=83
+QUY ĐỊNH VỀ HỌC BỔNG TÂN SINH VIÊN
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=84
+Điều 7: Nguồn quỹ học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=85
+- Kinh phí Đại học Y Dược Thành phố Hồ Chí Minh dành để cấp học Tân sinh viên được trích tỷ lệ 15% từ nguồn thu học phí đào tạo đại học chính quy của sinh viên năm thứ I.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=86
+- Thời điểm áp dụng: từ năm học 2020 - 2021.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=87
+- Hội đồng xét cấp học bổng Tân sinh viên quyết định tổng số tiền phân bổ cho từng loại suất học bổng trong năm học.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=88
+Điều 8: Căn cứ xét học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=89
+- Căn cứ xét học bổng dựa trên điểm xét tuyển đầu vào, hồ sơ chứng minh thuộc đối tượng hưởng chế độ chính sách và gia cảnh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=90
+- Sinh viên phải hoàn thành nghĩa vụ đóng học phí năm học để được xét học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=91
+Điều 9: Các đối tượng và mức học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=92
+1. Đối tượng được cấp học bổng tương đương 100% học phí:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=93
+Sinh viên thuộc một trong ba đối tượng sau:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=94
+a. Sinh viên thuộc đối tượng được miễn 100% học phí theo quy định của pháp luật hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=95
+b. Sinh viên là thủ khoa đầu vào của từng ngành (có tổng điểm 03 môn thi đầu vào trường cao nhất, không tính điểm ưu tiên) của nhà trường. Trong trường hợp đồng điểm thì nhà trường sẽ xét ưu tiên sinh viên có hoàn cảnh khó khăn.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=96
+c. Sinh viên có hoàn cảnh khó khăn (có minh chứng kèm theo về hoản cảnh gia đình, hình ảnh, thành tích cá nhân,...).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=97
+2. Đối tượng được cấp học bổng tương đương 75% học phí:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=98
+Sinh viên thuộc một trong hai đối tượng sau:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=99
+a. Sinh viên thuộc đối tượng được giảm 70% học phí theo quy định của pháp luật hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=100
+b. Sinh viên có hoàn cảnh khó khăn (có minh chứng kèm theo bao gồm các minh chứng về hoàn cảnh gia đình, hình ảnh, thành tích cá nhân,...).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=101
+3. Đối tượng được cấp học bổng tương đương 50% học phí:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=103
+a. Sinh viên thuộc đối tượng được giảm 50% học phí theo quy định của pháp luật hiện hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=105
+4. Đối tượng được cấp học bổng tương đương 25% học phí: Sinh viên có hoàn cảnh khó khăn (có minh chứng kèm theo bao gồm các minh chứng về hoàn cảnh gia đình, hình ảnh, thành tích cá nhân,...).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=106
+Điều 10. Thời gian xét cấp học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=107
+- Thời gian nhận hồ sơ: khi sinh viên làm thủ tục nhập học. Sinh viên được bổ túc hoàn thiện hồ sơ trong thời gian 20 ngày kể từ ngày nhập học.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=108
+- Thời gian xét học bổng 45 ngày kể từ ngày kết thúc nhận hồ sơ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=109
+- Học bổng được cấp thành 02 đợt theo học kỳ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=111
+Chương III
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=112
+QUY ĐỊNH VỀ HỌC BỔNG KHUYẾN HỌC
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=114
+Điều 11: Nguồn quỹ học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=115
+- Kinh phí Đại học Y Dược dành cấp học bổng khuyến học cho sinh viên chính quy được trích tỷ lệ 10% từ nguồn thu học phí đào tạo đại học chính quy của sinh viên năm 2 trở đi để trao học bổng cho sinh viên tùy theo từng năm học dựa trên quy định của nhà trường.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=116
+- Thời điểm áp dụng: từ năm học 2021 - 2022.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=117
+- Tiền từ nguồn học bổng này sẽ được chuyển thành học phí cho sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=118
+Điều 12: Tiêu chuẩn và Định mức học bổng khuyến học
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=119
+Điều 13: Nguyên tắc xét
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=120
+- Căn cứ kết quả học tập và rèn luyện từ cao xuống thấp cho đến khi hết chỉ tiêu.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=121
+- Trường hợp sinh viên có điểm trung bình chung năm học bằng nhau thì tính theo điểm rèn luyện từ cao xuống thấp. Trường hợp điểm trung bình chung và điểm rèn luyện cả năm bằng nhau thì sẽ do Ban Chủ nhiệm Khoa quyết định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=122
+- Tổng số suất học bổng được cấp tính theo mỗi khóa học, ngành học trong mỗi năm học.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=123
+- Điểm trung bình chung học tập được xác định theo quy định hiện hành của Quy chế đào tạo đại học và cao đẳng hệ chính quy do Bộ Giáo dục và đào tạo ban hành (chỉ được lấy điểm thi, kiểm tra hết môn học lần thứ nhất, trong đó không có điểm thi dưới điểm D hoặc kiểm tra hết môn không đạt).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=124
+- Sinh viên đã hoàn thành nghĩa vụ đóng học phí tính đến năm học được xét.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=125
+- Sinh viên bị kỷ luật ngừng học hoặc buộc thôi học, học lưu ban, học lại, học bổ sung không được xét học bổng. Trường hợp sinh viên phải dừng học; học lại, lưu ban (không quá một lần) do ốm đau, tai nạn hoặc dừng học vì lý do bất khả kháng không do kỷ luật hoặc tự thôi học thì vẫn được xét, cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=126
+Điều 14: Thủ tục cấp học bổng khuyến học
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=127
+Sau khi kết thúc năm học, căn cứ kết quả học tập và rèn luyện của sinh viên, các Khoa lập danh sách sinh viên (trừ sinh viên năm cuối) đủ điều kiện xét học bổng khuyến học và danh sách sinh viên được chọn cấp học bổng theo từng khối lớp/ lớp (theo biểu mẫu đính kèm).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=128
+- Hồ sơ xét học bổng khuyến học được gửi về Phòng Công tác sinh viên bằng văn bản và email vào thời điểm sau khi kết thúc năm học 01 tháng để Phòng làm thủ tục xét, cấp học bổng cho sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=130
+Chương IV
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=131
+HỌC BỔNG DO TỔ CHỨC VÀ CÁ NHÂN TÀI TRỢ
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=133
+Điều 15: Nguồn quỹ học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=134
+Từ cán bộ viên chức, nguyên cán bộ viên chức, cựu sinh viên của nhà trường, các tổ chức và cá nhân ngoài trường tài trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=135
+Điều 16: Đối tượng nhận học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=136
+Tất cả sinh viên hiện đang theo học đại học hệ chính quy tại Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=137
+Điều 17: Nguyên tắc xét, cấp học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=138
+- Lựa chọn đúng đối tượng theo yêu cầu và điều kiện của nhà tài trợ học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=139
+- Trên cơ sở chỉ tiêu cho phép của từng học bổng, sắp xếp các đối tượng có đủ tiêu chuẩn theo thứ tự ưu tiên từ cao xuống thấp và xét cho tới khi hết chỉ tiêu.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=140
+- Đảm bảo tính công bằng, khách quan trong việc xét.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=141
+- Đảm bảo việc sử dụng học bổng theo đúng yêu cầu, mục đích của tổ chức, cá nhân tài trợ học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=142
+- Tại cùng một thời điểm xét các học bổng, người có kết quả học tập và rèn luyện cao hơn thì được nhận học bổng có giá trị cao hơn.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=143
+- Dựa vào số lượng sinh viên giữa các đơn vị, các chuyên ngành khi phân bổ và xét học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=144
+- Mỗi sinh viên chỉ nhận 01 suất học bổng trong năm học xét học bổng, trừ trường hợp học bổng được trao dưới dạng hiện vật và học bổng có giá trị dưới 10 triệu đồng/suất.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=145
+Điều 18: Quy trình thực hiện
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=146
+1. Học bổng do các Khoa trực tiếp quản lý
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=147
+- Đối với học bổng thường niên (đang trao hằng năm): Ban Chủ nhiệm Khoa tiến hành các thủ tục xét hồ sơ và trao học bổng cho sinh viên theo đúng quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=148
+- Đối với học bổng đột xuất: sau khi nhận thông báo học bổng của nhà tài trợ, Ban Chủ nhiệm Khoa tiến hành thẩm định các học bổng xem có phù hợp với quy định của nhà trường và văn bản hiện hành của nhà nước hay không (nhất là đối với các học bổng có yếu tố nước ngoài), nếu các học bổng này phù hợp với quy định thì tiến hành thủ tục xét hồ sơ và trao học bổng cho sinh viên như học bổng thường niên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=149
+- Ban Chủ nhiệm Khoa gửi văn bản của nhà tài trợ, danh sách sinh viên được nhận học bổng về Phòng Công tác sinh viên để quản lý chung.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=150
+- Cuối mỗi năm học, các Khoa thống kê và gửi báo cáo tổng kết các học bổng do đơn vị phụ trách về Phòng Công tác sinh viên trước ngày 30/7 hằng năm (Biểu mẫu đính kèm) để phòng Công tác sinh viên tổng hợp báo cáo Ban Giám hiệu.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=151
+2. Học bổng chung của nhà trường do Phòng Công tác sinh viên quản lý
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=152
+* Đối với Học bổng trong nước đang triển khai thực hiện:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=153
+- Phòng Công tác sinh viên đăng thông tin trên website của Nhà trường và gửi văn bản về các Khoa, Đoàn TNCSHCM – Hội Sinh viên trường (qua email);
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=154
+- Ban Chủ nhiệm các Khoa, Ban Chấp hành Đoàn TNCSHCM – Hội Sinh viên triển khai thông báo học bổng đến sinh viên và gửi danh sách đề xuất sinh viên đủ điều kiện nhận học bổng về Phòng Công tác sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=155
+- Phòng Công tác sinh viên phối hợp với nhà tài trợ tiến hành xét hồ sơ, tổng hợp danh sách nhận học bổng trình Ban Giám hiệu ra quyết định và gửi danh sách sinh viên được nhận học bổng của nhà trường đến đơn vị, cá nhân tài trợ.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=156
+- Phòng Công tác sinh viên trao đổi với nhà tài trợ về hình thức trao, nhận học bổng cho sinh viên của trường.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=157
+* Đối với Học bổng trong nước mới tiếp nhận:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=158
+- Sau khi xem xét, trao đổi với nhà tài trợ về tiêu chí, tiêu chuẩn, số lượng, giá trị, phương thức tiếp nhận, trao học bổng…, Phòng sẽ trình Hồ sơ xin ý kiến của Ban Giám hiệu nhà trường. Khi được phê duyệt, Phòng tiến hành quy trình xét và trao học bổng như trên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=159
+* Đối với học bổng có yếu tố nước ngoài:
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=160
+- Sau khi thẩm định về tư cách pháp nhân của nhà tài trợ, quy trình xét và trao học bổng giống như học bổng trong nước.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=161
+Điều 19: Hình thức nhận Học bổng
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=162
+Bao gồm các hình thức sau (trong khuôn khổ pháp luật cho phép và được sự chấp thuận của Ban Giám hiệu Đại học Y Dược Thành phố Hồ Chí Minh):
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=163
+- Nhà tài trợ trao học bổng trực tiếp cho sinh viên tại Đại học Y Dược Thành phố Hồ Chí Minh (Phòng Công tác sinh viên là đơn vị đầu mối tổ chức lễ trao học bổng sau khi đã được Ban Giám hiệu chấp thuận).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=164
+- Nhà tài trợ chuyển tiền trực tiếp vào tài khoản ngân hàng của sinh viên (sinh viên cung cấp).
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=165
+- Đối với tiền học bổng mà nhà tài trợ đồng ý chuyển thành học phí năm học: nhà tài trợ chuyển khoản vào tài khoản của Nhà trường, số tiền tài trợ được sử dụng để đóng học phí cho những sinh viên chưa đóng học phí và chuyển khoản trực tiếp cho những sinh viên đã đóng học phí trong năm học sinh viên được xét học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=166
+- Đối với tiền học bổng nhà tài trợ chuyển khoản vào tài khoản của Nhà trường: Phòng Công tác sinh viên sẽ làm thủ tục chuyển khoản cho sinh viên theo đúng quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=167
+- Đối với tiền học bổng nhà tài trợ yêu cầu trao tiền mặt: Phòng Công tác sinh viên sẽ đối chiếu CMND/CCCD, Thẻ sinh viên trước khi sinh viên ký tên nhận tiền, Danh sách sinh viện ký tên xác nhận (đã nhận được học bổng) sẽ được nhà trường gửi tới nhà tài trợ như một minh chứng cho việc học bổng được trao, nhận đúng đối tượng, đúng mục đích; nhà trường không sử dụng tiền tài trợ này vào bất kỳ mục đích nào khác.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=168
+CHƯƠNG V
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=169
+TỔ CHỨC THỰC HIỆN
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=170
+Điều 20: Phòng Công tác sinh viên
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=171
+- Phòng Công tác sinh viên làm đầu mối khai thác, phối hợp với các Khoa, Phòng Đào tạo Đại học, Đoàn TNCS Hồ Chí Minh, Hội Sinh viên và các đơn vị, tổ chức, cá nhân trong và ngoài trường để phát triển các nguồn học bổng từ các tổ chức và cá nhân trong và ngoài nước.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=172
+- Phối hợp với các Khoa, Đoàn TNCS Hồ Chí Minh, Hội Sinh viên xét duyệt và quản lý thống nhất các học bổng từ các tổ chức phi chính phủ, các nhà hảo tâm trong và ngoài nước tài trợ cho nhà trường theo đúng quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=173
+- Xây dựng phương án cấp học bổng theo đúng quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=174
+- Tiếp nhận hồ sơ Học bổng khuyến học từ các Khoa, tổng hợp danh sách sinh viên được nhận học bổng của toàn trường, trình Ban Giám hiệu ra Quyết định cấp học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=175
+- Tiếp nhận và xét Đơn xin học bổng, Hồ sơ học bổng của sinh viên theo đúng quy định; tổ chức xét duyệt, trình Ban Giám hiệu phê duyệt danh sách sinh viên được đề cử xét, cấp học bổng; thông báo cho các đơn vị, cá nhân có liên quan và phối hợp tổ chức lễ trao học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=176
+- Tham mưu cho Ban Giám hiệu trong việc ra Quyết định cấp học bổng từ Quỹ UMPF và học bổng do tổ chức, cá nhân trong và ngoài trường tài trợ cho sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=177
+- Phối hợp với Phòng Kế hoạch tài chính chi trả học bổng cho sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=178
+- Quản lý dữ liệu, hồ sơ sinh viên nhận học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=179
+- Tổng hợp, báo cáo định kỳ kết quả công tác triển khai học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=180
+- Cuối mỗi năm học, Phòng Công tác sinh viên có nhiệm vụ tổng kết, đánh giá công tác quản lý, tổ chức triển khai xét, nhận học bổng của sinh viên trong toàn trường (do các tổ chức, cá nhân ngoài trường tài trợ), báo cáo Ban Giám hiệu Đại học Y Dược Thành phố Hồ Chí Minh.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=182
+Điều 21: Phòng Kế hoạch Tài chính
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=183
+- Xây dựng phương án phân bổ Quỹ học bổng trình Hiệu trưởng phê duyệt.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=184
+- Phối hợp với Phòng Công tác sinh viên trong việc quản lý nguồn tiền học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=185
+- Thực hiện việc chuyển tiền học bổng cho sinh viên theo quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=186
+Điều 22: Các Khoa, Đoàn Thanh niên - Hội sinh viên
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=187
+- Các Khoa căn cứ kết quả học tập và rèn luyện của sinh viên, lập danh sách sinh viên đủ điều kiện xét học bổng khuyến học và danh sách sinh viên được chọn cấp học bổng theo từng khối lớp/ lớp gửi về Phòng Công tác sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=188
+- Phối hợp với Phòng Công tác sinh viên trong việc vận động và tiếp nhận các nguồn học bổng, triển khai các chương trình học bổng, báo cáo kết quả công tác triển khai học bổng.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=189
+- Cung cấp danh sách sinh viên đã nhận học bổng từ các cá nhân, tổ chức ngoài trường cho Phòng Công tác sinh viên để đưa vào dữ liệu phục vụ cho việc xét cấp học bổng khác và lưu trữ, báo cáo theo quy định.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=190
+- Phối hợp với Phòng Công tác sinh viên tổ chức tuyên truyền về chính sách học bổng, nắm bắt thông tin sinh viên để phản ánh kịp thời về thực hiện chính sách học bổng cho sinh viên.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=191
+Điều 23: Điều khoản thi hành
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=192
+1. Quy định này có hiệu lực từ ngày ký ban hành.
+--------------------------------------------------------------------------------
+[paragraph]  | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=193
+2. Quy định này có 05 Chương, 23 Điều. Trong quá trình tổ chức thực hiện, nếu có khó khăn, vướng mắc, những điều chưa phù hợp, đề nghị đơn vị, cá nhân phản ánh kịp thời về Phòng Công tác sinh viên để tổng hợp, báo cáo Hiệu trưởng xem xét, sửa đổi, bổ sung.
+--------------------------------------------------------------------------------
+[table] table | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=0
+0,1
+"BỘ Y TẾ
+ĐẠI HỌC Y DƯỢC
+THÀNH PHỐ HỒ CHÍ MINH
+
+Số:             /QĐ-ĐHYD","CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+
+Thành phố Hồ Chí Minh, ngày      tháng     năm 2021"
+--------------------------------------------------------------------------------
+[table] table | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=1
+0,1
+"Nơi nhận:
+- Như Điều 3;
+- Lưu: VT, P.CTSV_BN.","KT. HIỆU TRƯỞNG
+PHÓ HIỆU TRƯỞNG
+
+
+
+
+
+
+Nguyễn Hoàng Bắc"
+--------------------------------------------------------------------------------
+[table] table | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=3
+0,1,2,3
+Xếp loại học bổng,Điểm Trung bình chung năm học,Điểm rèn luyện cả năm,Suất học bổng
+Xuất sắc,"≥ 3,60",≥ 90,100% học phí
+Giỏi,"≥ 3,20",≥ 80,75% học phí
+Khá,"≥ 2,50",≥ 65,50% học phí
+--------------------------------------------------------------------------------
+[table] table | 1497 QUY DINH CHINH SACH HOC BONG CHO SINH VIEN DAI HOC CHINH QUY.docx | idx=4
+0,1
+,"KT. HIỆU TRƯỞNG
+PHÓ HIỆU TRƯỞNG
+
+
+
+
+
+
+Nguyễn Hoàng Bắc"
+--------------------------------------------------------------------------------
