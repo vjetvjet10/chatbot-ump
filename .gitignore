@@ -12,3 +12,5 @@ backend/*.pyc
 # Hệ thống
 .DS_Store
 .vscode/
+venv
+__pycache__

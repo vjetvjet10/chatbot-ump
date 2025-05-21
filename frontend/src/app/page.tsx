@@ -570,7 +570,7 @@ export default function Home() {
   const [isRecording, setIsRecording] = useState(false)
   const [showViewer, setShowViewer] = useState(false)
   const [isFirstLoad, setIsFirstLoad] = useState(true);
-  const maxHighlights = 5
+  // const maxHighlights = 5
   const socketRef = useRef<WebSocket | null>(null)
   const mediaRecorderRef = useRef<MediaRecorder | null>(null)
   const audioChunksRef = useRef<Blob[]>([])
@@ -581,8 +581,8 @@ export default function Home() {
   const toggleSidebar = () => setSidebarOpen(prev => !prev)
 
   useEffect(() => {
-    const socket = new WebSocket(`ws://${window.location.hostname}:8000/chat`)
-    socketRef.current = socket
+    const socket = new WebSocket(`ws://${window.location.hostname}:8000/chat`);
+    socketRef.current = socket;
     socket.onmessage = (event) => {
       // --- BẮT ĐẦU DEBUG ---
       // Luôn log dữ liệu thô nhận được để chắc chắn backend không gửi lặp
@@ -595,7 +595,8 @@ export default function Home() {
         return
       }
 
-      let data: any;
+      // let data: any;
+      let data: unknown;
       try {
         data = JSON.parse(event.data);
       } catch {
@@ -606,16 +607,18 @@ export default function Home() {
       }
 
       // --- XỬ LÝ STREAMMING ĐÃ SỬA ---
-      if (data.stream) {
+      // if (data.stream) {
+        if (typeof data === 'object' && data !== null && 'stream' in data) {
+          const streamData = data as { stream: string };
         // 1. Nối chunk mới vào ref
-        currentAssistantMessageRef.current += data.stream;
+        currentAssistantMessageRef.current += streamData.stream;
 
         // 2. Cập nhật state messages
         setMessages(prev => {
           const updated = [...prev];
           if (updated.length === 0 || updated[updated.length - 1]?.role !== 'assistant') {
             // Bắt đầu tin nhắn mới: Đặt nội dung là toàn bộ ref hiện tại
-            updated.push({ role: 'assistant', content: currentAssistantMessageRef.current.trimStart() });
+            updated.push({ role: 'assistant' as const, content: currentAssistantMessageRef.current.trimStart() });
           } else {
             // Cập nhật tin nhắn cuối: Gán bằng toàn bộ nội dung ref hiện tại
             updated[updated.length - 1].content = currentAssistantMessageRef.current;
@@ -625,9 +628,11 @@ export default function Home() {
       }
       // --- KẾT THÚC SỬA STREAMING ---
 
-      else if (data.type === 'replace_ai_message') {
+      // else if (data.type === 'replace_ai_message') {
+        else if (typeof data === 'object' && data !== null && 'type' in data && (data as Record<string, unknown>).type === 'replace_ai_message') {
+          const replaceData = data as { type: string; new_answer: string };
         // Khi thay thế toàn bộ, cũng cập nhật ref
-        currentAssistantMessageRef.current = data.new_answer.trim();
+        currentAssistantMessageRef.current = replaceData.new_answer.trim();
         setMessages(prev => {
           const last = prev[prev.length - 1];
           if (last?.role === 'assistant') {
@@ -642,92 +647,183 @@ export default function Home() {
         // setIsTyping(false); // Xem xét logic backend của bạn
       }
 
-      else if (data.type === 'metadata') {
-        // Xử lý metadata không đổi...
-        const grouped = new Map<string, string[]>()
-        for (const s of data.sources || []) {
-          const file = String(s.source)
-          const highlight = s.highlight || ""
-          if (!grouped.has(file)) grouped.set(file, [highlight])
-          else grouped.get(file)!.push(highlight)
+      // else if (data.type === 'metadata') {
+      //   // Xử lý metadata không đổi...
+      //   const grouped = new Map<string, string[]>()
+      //   for (const s of data.sources || []) {
+      //     const file = String(s.source)
+      //     const highlight = s.highlight || ""
+      //     if (!grouped.has(file)) grouped.set(file, [highlight])
+      //     else grouped.get(file)!.push(highlight)
+      //   }
+      //   const groupedArray = Array.from(grouped.entries()).map(([source, highlights]) => ({ source, highlights }))
+      //   setSources(groupedArray)
+      //   if (data.suggestions) setSuggestions(data.suggestions)
+      // }
+      else if (
+        typeof data === 'object' &&
+        data !== null &&
+        'type' in data &&
+        (data as Record<string, unknown>).type === 'metadata'
+      ) {
+        const metadata = data as {
+          type: string;
+          sources?: { source: string; highlight: string }[];
+          suggestions?: string[];
+        };
+      
+        const grouped = new Map<string, string[]>();
+        for (const s of metadata.sources || []) {
+          const file = String(s.source);
+          const highlight = s.highlight || '';
+          if (!grouped.has(file)) grouped.set(file, [highlight]);
+          else grouped.get(file)!.push(highlight);
         }
-        const groupedArray = Array.from(grouped.entries()).map(([source, highlights]) => ({ source, highlights }))
-        setSources(groupedArray)
-        if (data.suggestions) setSuggestions(data.suggestions)
+      
+        const groupedArray = Array.from(grouped.entries()).map(([source, highlights]) => ({
+          source,
+          highlights,
+        }));
+      
+        setSources(groupedArray);
+        if (metadata.suggestions) setSuggestions(metadata.suggestions);
       }
-
-      else if (data.type === 'recognized_text') {
+      
+      // else if (data.type === 'recognized_text') {
+      //   // DEBUG: Xem backend gửi gì
+      //   console.log('Received recognized_text data:', data);
+    
+      //   // Giả sử backend đã được sửa và data.text chứa bản ghi giọng nói thô
+      //   const recognized = data.text.trim();
+      else if (
+        typeof data === 'object' &&
+        data !== null &&
+        'type' in data &&
+        (data as Record<string, unknown>).type === 'recognized_text'
+      ) {
+        const recognizedData = data as { type: string; text: string };
+      
         // DEBUG: Xem backend gửi gì
-        console.log('Received recognized_text data:', data);
-    
-        // Giả sử backend đã được sửa và data.text chứa bản ghi giọng nói thô
-        const recognized = data.text.trim();
-    
+        console.log('Received recognized_text data:', recognizedData);
+      
+        const recognized = recognizedData.text.trim();
         // --- TỰ ĐỘNG GỬI KHI CÓ KẾT QUẢ NHẬN DẠNG ---
-        if (recognized && socketRef.current && socketRef.current.readyState === WebSocket.OPEN) {
-          // === SỬA LỖI: Đảm bảo chuyển sang màn hình chat ===
-          setIsFirstLoad(false); // <-- THÊM DÒNG NÀY
-          // 1. Thêm tin nhắn User vào messages ngay lập tức
-          const newMessages = [...messages, { role: 'user', content: recognized }];
-          setMessages(newMessages);
+      //   if (recognized && socketRef.current && socketRef.current.readyState === WebSocket.OPEN) {
+      //     // === SỬA LỖI: Đảm bảo chuyển sang màn hình chat ===
+      //     setIsFirstLoad(false); // <-- THÊM DÒNG NÀY
+      //     // 1. Thêm tin nhắn User vào messages ngay lập tức
+      //     // const newMessages = [...messages, { role: 'user', content: recognized }];
+      //     // setMessages(newMessages);
+      //     setMessages(prev => [...prev, { role: 'user', content: recognized }]);
     
-          // 2. Chuẩn bị và gửi payload tới backend
+      //     // 2. Chuẩn bị và gửi payload tới backend
+      //     const payload = {
+      //       query: recognized,
+      //       // Lấy lịch sử BAO GỒM cả tin nhắn user vừa thêm
+      //       history: newMessages.slice(-4)
+      //     };
+      //     socketRef.current.send(JSON.stringify(payload));
+    
+      //     // 3. Đặt trạng thái đang chờ AI trả lời
+      //     setIsTyping(true);
+    
+      //     // 4. Xóa nội dung ô input (vì đã gửi)
+      //     setInput("");
+      //     // Reset chiều cao textarea nếu cần
+      //     if (inputRef.current) {
+      //         inputRef.current.style.height = 'auto';
+      //     }
+    
+      //     // 5. Reset các state khác như sources, suggestions
+      //     setSources([]);
+      //     setSuggestions([]);
+      //     currentAssistantMessageRef.current = ""; // Reset nội dung AI đang xây dựng
+    
+      //   } else if (recognized) {
+      //      // Chỉ cập nhật input nếu có text nhưng socket không sẵn sàng
+      //      setInput(recognized);
+      //      if (inputRef.current) {
+      //        inputRef.current.style.height = 'auto';
+      //        inputRef.current.style.height = `${inputRef.current.scrollHeight}px`;
+      //      }
+      //      inputRef.current?.focus();
+      //   } else {
+      //      // Xử lý trường hợp không nhận dạng được gì (recognized rỗng)
+      //      console.log("Recognition returned empty text.");
+      //      // Có thể hiển thị thông báo nhỏ hoặc không làm gì cả
+      //   }
+      // }
+      if (recognized && socketRef.current && socketRef.current.readyState === WebSocket.OPEN) {
+        setIsFirstLoad(false);
+    
+        setMessages(prev => {
+          const updated = [...prev, { role: 'user' as const, content: recognized }];
           const payload = {
             query: recognized,
-            // Lấy lịch sử BAO GỒM cả tin nhắn user vừa thêm
-            history: newMessages.slice(-4)
+            history: updated.slice(-4),
           };
-          socketRef.current.send(JSON.stringify(payload));
     
-          // 3. Đặt trạng thái đang chờ AI trả lời
-          setIsTyping(true);
+          socketRef.current?.send(JSON.stringify(payload));
+          return updated;
+        });
     
-          // 4. Xóa nội dung ô input (vì đã gửi)
-          setInput("");
-          // Reset chiều cao textarea nếu cần
-          if (inputRef.current) {
-              inputRef.current.style.height = 'auto';
-          }
-    
-          // 5. Reset các state khác như sources, suggestions
-          setSources([]);
-          setSuggestions([]);
-          currentAssistantMessageRef.current = ""; // Reset nội dung AI đang xây dựng
-    
-        } else if (recognized) {
-           // Chỉ cập nhật input nếu có text nhưng socket không sẵn sàng
-           setInput(recognized);
-           if (inputRef.current) {
-             inputRef.current.style.height = 'auto';
-             inputRef.current.style.height = `${inputRef.current.scrollHeight}px`;
-           }
-           inputRef.current?.focus();
-        } else {
-           // Xử lý trường hợp không nhận dạng được gì (recognized rỗng)
-           console.log("Recognition returned empty text.");
-           // Có thể hiển thị thông báo nhỏ hoặc không làm gì cả
+        setIsTyping(true);
+        setInput("");
+        if (inputRef.current) inputRef.current.style.height = 'auto';
+        setSources([]);
+        setSuggestions([]);
+        currentAssistantMessageRef.current = "";
+      } else if (recognized) {
+        setInput(recognized);
+        if (inputRef.current) {
+          inputRef.current.style.height = 'auto';
+          inputRef.current.style.height = `${inputRef.current.scrollHeight}px`;
         }
+        inputRef.current?.focus();
+      } else {
+        console.log("Recognition returned empty text.");
       }
-      if (data.final) {
-        setIsTyping(false)
+    }
+      // if (data.final) {
+      //   setIsTyping(false)
+      // }
+      if (
+        typeof data === 'object' &&
+        data !== null &&
+        'final' in data &&
+        (data as Record<string, unknown>).final === true
+      ) {
+        setIsTyping(false);
       }
-
+      
     //   if (data.error) {
     //     setMessages(prev => [...prev, { role: 'assistant', content: `❌ Lỗi: ${data.error}` }])
     //     setIsTyping(false)
     //   }
     // }
-    else if (data.error) {
-      setMessages(prev => [...prev, { role: 'assistant', content: `❌ Lỗi: ${data.error}` }])
-      setIsTyping(false)
-      currentAssistantMessageRef.current = ""; // Reset ref khi có lỗi
-    }
+  //   else if (data.error) {
+  //     setMessages(prev => [...prev, { role: 'assistant', content: `❌ Lỗi: ${data.error}` }])
+  //     setIsTyping(false)
+  //     currentAssistantMessageRef.current = ""; // Reset ref khi có lỗi
+  //   }
+  // }
+  else if (
+    typeof data === 'object' &&
+    data !== null &&
+    'error' in data &&
+    typeof (data as Record<string, unknown>).error === 'string'
+  ) {
+    const errorData = data as { error: string };
+    setMessages(prev => [...prev, { role: 'assistant', content: `❌ Lỗi: ${errorData.error}` }]);
+    setIsTyping(false);
+    currentAssistantMessageRef.current = ""; // Reset ref khi có lỗi
   }
+  
+    socket.onclose = () => setIsTyping(false);
 
-    socket.onclose = () => setIsTyping(false)
-
-    return () => socket.close()
-  }, [])
+    return () => socket.close();
+}
+  }, []);
 
 // Quan trọng: Reset ref khi gửi tin nhắn mới
     const handleSubmit = () => {
@@ -735,7 +831,7 @@ export default function Home() {
       setIsFirstLoad(false);
       const question = input.trim()
 
-      const updatedMessages = [...messages, { role: 'user', content: question }]
+      const updatedMessages = [...messages, { role: 'user' as const, content: question }]
       setMessages(updatedMessages)
 
       const payload = {

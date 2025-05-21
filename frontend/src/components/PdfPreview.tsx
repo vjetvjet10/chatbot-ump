@@ -58,7 +58,7 @@ export default function PdfPreview({ fileUrl }: PdfPreviewProps) {
     setError(null)
   }
 
-  const handleLoadError = (err: any) => {
+  const handleLoadError = (err: unknown) => {
     console.error(`❌ Lỗi khi tải PDF: ${fileUrl}`, err)
     setError("Không thể hiển thị file PDF này.")
   }
